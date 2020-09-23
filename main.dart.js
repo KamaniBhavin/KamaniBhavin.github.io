@@ -26313,7 +26313,7 @@ return B.Ww(L.cJ("Bhavin Kamani",A.b5(s,s,C.j,s,s,s,s,s,"AquateScript",s,s,24,s,
 va:function(){var s=null,r="Inconsolata",q=A.b5(s,s,C.m,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s)
 return T.hg(H.b([T.m0(s,s,C.aZ,!0,s,new Q.c7(s,H.b([new Q.c7("Code is like humor. When you have to explain it,\n",s,s,A.b5(s,s,C.w.h(0,400),s,s,s,s,s,r,s,s,s,s,s,s,1.5,!0,1.5,s,s,s,s,s).jP(C.ym,12)),new Q.c7("it\u2019s bad.",s,s,A.b5(s,s,C.w.h(0,400),s,s,s,s,s,r,s,s,s,s,s,s,1.5,!0,1.5,s,s,s,s,s).Mw(C.j,C.ne,12))],t.ru),s,q),C.ar,s,s,1,C.ab)],t.t),C.ae,C.cW,C.A)},
 oq:function(a,b){var s=null
-return new T.m1(b,L.cJ("Mobile App Developer.\n",A.b5(s,s,C.w.h(0,400),s,s,s,s,s,"Inconsolata",s,s,s,s,s,s,1.5,!0,1.5,s,s,s,s,s).dD(a),s),s)},
+return new T.m1(b,L.cJ("A Computer Science Undergraduate.\n",A.b5(s,s,C.w.h(0,400),s,s,s,s,s,"Inconsolata",s,s,s,s,s,s,1.5,!0,1.5,s,s,s,s,s).dD(a),s),s)},
 Fj:function(a){return this.oq(a,3)},
 ot:function(a){var s=null,r="ProductSans",q=A.b5(s,s,C.j,s,s,s,s,s,r,s,s,s,s,C.ag,s,1,!0,1.5,s,s,s,s,s).dD(a)
 return T.m0(s,s,C.aZ,!0,s,new Q.c7("Hello",H.b([new Q.c7(".",s,s,A.b5(s,s,C.j,s,s,s,s,s,r,s,s,s,s,C.ag,s,1,!0,1.5,s,s,s,s,s).jP(new P.j(4294923091),a)),new Q.c7("\nI am\nBhavin",s,s,A.b5(s,s,C.j,s,s,s,s,s,r,s,s,s,s,C.ag,s,1,!0,1.5,s,s,s,s,s).dD(a))],t.ru),s,q),C.ar,s,s,1,C.ab)}}
